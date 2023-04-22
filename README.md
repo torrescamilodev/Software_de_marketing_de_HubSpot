@@ -82,3 +82,101 @@ la base de datos de los contactos vive dentro del CRM, Las areas mas importantes
 
 # BOOTCAMP - ON THE FUZE
 
+CRM - Gestion de relaciones de clientes: Son todas aquellas soluciones tecnologicas que permiten gestionar las relaciones con usuarios, clientes y prospesctos
+
+Buyer persona:
+
+EDAD: 25 años antes de 30
+• Estado civil: madre, con pareja pero no casada
+• Educación: Completó la universidad.
+• Ingresos: Sus ingresos provienen principalmente de los ingresos de su pareja.
+• Ocupación: Tiene un trabajo freelance como diseñadora gráfica.
+• Ubicación: vive en un área suburbana, cerca de una familia con
+acceso a recursos, como parques, bibliotecas y guarderías
+instalaciones.
+
+Perfil psicográfico
+Mónica es una madre joven, se despierta temprano, probablemente antes que el bebé,
+tomarse unos momentos para ella. Ella bebe una taza de té, hace un poco
+yoga suave o meditación, y preparar el desayuno para ella y su
+pareja.
+Una vez que el bebé está despierto, su día gira en torno al cuidado del niño. Ella
+cambia pañales, amamanta o prepara un biberón, y pasa tiempo
+
+jugando con el bebé. También lleva al bebé a pasear o a un baby-
+actividad amistosa, como un grupo de juego o una clase de música.
+
+Durante la siesta del bebé, éste aprovecha para descansar o ponerse
+cosas que se hacen en la casa, lavar la ropa, limpiar el
+cocina, o ponerse al día con los correos electrónicos u otro trabajo. Cuando el bebé se despierta
+vuelve a sus deberes de cuidadora, que incluyen alimentar, cambiar,
+y jugando. También podría llevar al bebé afuera a tomar aire fresco o
+leer libros y cantar canciones con el bebé.
+
+A medida que avanza el día, comienza a preparar el almuerzo para ella y los
+bebé, y luego empezar a pensar en la cena. Ella planea un saludable,
+comida nutritiva para la familia e involucrar al bebé en la comida
+proceso de preparación.
+Por la noche, se toma un tiempo para relajarse, leer un libro,
+o ponte al día con tu programa favorito. Ella también pasa tiempo con su pareja,
+hablando de su día y compartiendo las alegrías y desafíos de
+paternidad
+Finalmente, prepara al bebé para ir a la cama, después de una hora de acostarse tranquila.
+rutina que puede incluir un baño, la hora del cuento y caricias. Una vez el
+bebé está dormido, puede disfrutar de un descanso muy necesario o cuidar de
+cualquier asunto relacionado con el trabajo antes de comenzar el ciclo de nuevo al siguiente
+día.
+
+Con base en el perfil psicográfico compartido, realice lo siguiente:
+Ejercicio 1
+1. Usa tu imaginación para crear una empresa en un campo/Industria en
+que le puedes ofrecer productos o servicios. Describa lo que su
+productos o servicios son.
+
+productos para bebe bebes
+
+2. Crea un personaje de comprador.
+
+
+
+estrategias google ads
+            twitter ads
+            meta ads
+            
+keywords:
+yoga
+ntricion
+naturaleza
+
+
+
+state
+click ad          salida
+actividad         inactividad
+click adentro
+
+
+configuracion -> objects -> products
+
+1. Crea una lista de 3 a 5 productos para tu empresa, necesitan tener al menos 3 propiedades establecidas.
+2. El cliente necesita crear las canalizaciones para el proceso de ventas.
+3. Necesitan automatizar la asignación de tareas, cada vez que el trato avanza, se debe crear una nueva tarea para que el representante de ventas revise el trato y comuníquese con el contacto.
+4. Necesitan enviar un email personalizado de bienvenida a los contactos una vez que se gana el trato y crea automáticamente un trato de renovación.
+
+
+productos
+Suscripcion a la pagina web 
+servicio de alimentacion y nutricion personalizado para bebes
+Ebook alimentacion y nutricion saludable para bebes
+Ebook actividades y recreacion para hacer con tu bebe
+libro en fisico alimentacion y nutricion saludable para bebes
+libro en fisico actividades y recreacion para hacer con tu bebe
+
+
+
+
+
+
+
+
+
