@@ -79,3 +79,6 @@ la base de datos de los contactos vive dentro del CRM, Las areas mas importantes
 - Mantener sana la base de datos
 - Reúne y guarda la informacion clade de tus contactos (CRM recoge informacion automaticamente, como la primera pagina vistapor el usuario)
 
+
+# BOOTCAMP - ON THE FUZE
+
