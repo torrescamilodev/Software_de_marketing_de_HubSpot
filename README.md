@@ -60,3 +60,22 @@ Por ejemplo, la creación de contactos nuevos puede ser realizada manualmente po
 
 ***La información compartida permite que todos los equipos estén en sintonía y te ayuda a mantener conversaciones personalizadas y significativas con los contactos.***
 
+# Cómo navegar por Marketing Hub
+
+Analicemos cada herramienta de Marketing Hub de forma general y hagamos un breve resumen de las herramientas que usaría un profesional del marketing para crear una campaña en HubSpot.
+
+*En el submenú de Marketing, Planificación y estrategia (no sale)*, encontrarás las herramientas que necesitas para planificar y optimizar el trabajo de tu equipo. En primer lugar, puedes usar la herramienta SEO para evaluar diferentes opciones de temas y asegurarte de que el contenido se alinee con la estrategia de SEO general.
+
+**Ejemplo herramienta SEO:** Imagina que deseas aumentar el tráfico web para tu empresa de suministro de ropa.
+El SEO es un excelente lugar para comenzar. HubSpot puede optimizar tu estrategia de SEO manteniendo el contenido organizado, proporcionando ideas sobre qué escribir y ayudándote a clasificarte con términos de búsqueda clave.
+
+
+# Proceso de gestion de contactos
+
+Cultivar relaciones para tu empresa.
+
+la base de datos de los contactos vive dentro del CRM, Las areas mas importantes son los registros, las propiedades del contacto y la posibilidad de segementar los datos para que brindenla inforamcion mas contextualizada sobre los contactos.
+
+- Mantener sana la base de datos
+- Reúne y guarda la informacion clade de tus contactos (CRM recoge informacion automaticamente, como la primera pagina vistapor el usuario)
+
